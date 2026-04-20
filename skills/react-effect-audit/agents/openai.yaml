@@ -1,0 +1,3 @@
+interface:
+  display_name: "React Effect Audit"
+  short_description: "Challenge unnecessary useEffect usage in React code"
